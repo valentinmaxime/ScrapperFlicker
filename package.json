@@ -1,0 +1,25 @@
+{
+  "name": "scrapper-flicker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "flickr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valentinmaxime/ScrapperFlicker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valentinmaxime/ScrapperFlicker/issues"
+  },
+  "homepage": "https://github.com/valentinmaxime/ScrapperFlicker#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "jimp": "^0.2.27",
+    "node-flickr": "^1.0.0"
+  }
+}
